@@ -19,8 +19,10 @@
     "framer-motion": "^2.9.4",
     "graphql": "^15.4.0",
     "next": "^9.1.7",
+    "next-urql": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-is": "^17.0.1",
     "typescript": "^4.0.5",
     "urql": "^1.11.2"
   },
